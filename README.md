@@ -1,4 +1,4 @@
-![Banner](https://github.com/Vidhyanandcs/tracker-dApp-ui/src/assets/img/banner.jpg)
+![Banner](https://github.com/Vidhyanandcs/tracker-dApp-ui/blob/main/banner.jpg)
 # tracker-dApp-ui
 ![GitHub last commit](https://img.shields.io/github/last-commit/Vidhyanandcs/tracker-dApp-ui)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Vidhyanandcs/tracker-dApp-ui)
