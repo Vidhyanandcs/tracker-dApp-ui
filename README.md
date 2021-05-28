@@ -18,6 +18,8 @@ The CSS has been written without any CSS frameworks. We have used felxbox and CS
 
 Note: To run the app in production with authentication you will have to use the guards in the `/router/index.js`.
 
+Demo: `https://facilitytracker.herokuapp.com/` & `https://facilitytracker.herokuapp.com/dashboard`
+
 ## Technologies
 Project is created with:
 * Node.JS: 14.16.0
