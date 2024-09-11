@@ -12,7 +12,7 @@
     "axios": "0.21.1",
     "core-js": "3.14.0",
     "eslint-plugin-prettier": "3.4.0",
-    "express": "4.17.1",
+    "express": "4.21.0",
     "register-service-worker": "1.7.2",
     "serve-static": "1.14.1",
     "vue": "3.1.1",
